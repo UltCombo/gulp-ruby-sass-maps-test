@@ -1,0 +1,14 @@
+{
+  "name": "gulp-sass-map",
+  "version": "0.0.0",
+  "description": "Test case for gulp-ruby-sass sourcemaps",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-ruby-sass": "git://github.com/sindresorhus/gulp-ruby-sass.git#8bbd693ae40961233caf7561a4269f594d651074"
+  },
+  "author": "UltCombo",
+  "license": "WTFPL"
+}

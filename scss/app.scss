@@ -1,0 +1,5 @@
+@import "partial";
+
+.foo:after {
+	content: ' world';
+}
